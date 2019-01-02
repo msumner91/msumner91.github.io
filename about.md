@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a Software Engineer currently working as a consultant at Data Reply. Previously, I worked in Equities Tech at Goldman Sachs.
-
 This blog will discuss topics related to:
 
-- Functional Programming
-- Data Science & Engineering
+- Programming languages / compilers
+- Meta-programming
+- Distributed Systems
 
 Code samples will be posted at:
 {% include icon-github.html username="msumner91" %} /
