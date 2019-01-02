@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Concerning Scala, Data Science & all things Functional
+title: Blog about programming languages, meta-programming & distributed systems
 email: m.sumner91@hotmail.co.uk
-description: A blog about my experiences in the world of Functional Programming and Data Science.
+description: Blog about programming languages, meta-programming & distributed systems
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://msumner91.github.io" # the base hostname & protocol for your site
 twitter_username: msumner91
